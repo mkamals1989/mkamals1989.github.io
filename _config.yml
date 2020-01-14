@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Kamal S
+twitter_username: mkamals1989
+name: Kamal Selvaraj
 
 # Build settings
 markdown: kramdown
@@ -12,7 +12,7 @@ primarylinks:
  - title: Blog
    url: http://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://github.com/mkamals1989
  - title: StackOverflow
    url: http://stackoverflow.com/users/258813/rhinds
  - title: DZone

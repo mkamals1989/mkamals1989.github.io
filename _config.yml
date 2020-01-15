@@ -9,16 +9,16 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+ #- title: Blog
+   #url: http://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/mkamals1989
  - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://stackoverflow.com/users/12589404/kamal-s
+ #- title: DZone
+   #url: https://dzone.com/users/899489/rhinds.html
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: www.linkedin.com/in/mkamals1989
 
 #Any buzzword skills you want to include
 skills:

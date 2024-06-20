@@ -24,6 +24,7 @@ primarylinks:
 skills:
  - Android SDK
  - React Native
+ - ReactJS
  - Gradle
  - Firebase
  - UI Design
@@ -37,15 +38,20 @@ skills:
  - SQLite
  - GIT
  - SVN
+ - Tailwind CSS
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: Android Developer
-   start: 2018
+ - title: Senior Software Engineer
+   start: 2022
    end: Ongoing
+   employer: Bahwan Cybertek Pvt. Ltd.
+ - title: Senior Mobile Developer
+   start: 2018
+   end: 2022
    employer: HappyFox Technologies LLP.
    #description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
  - title: Software Engineer
@@ -112,7 +118,7 @@ github:
    #flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an software engineer with almost 6 years experience working in mobile technology. I have primarily worked on native Android app development using Java, but have worked across a broad range of technologies thereon: Core Java, Gradle, Html5/CSS, Javascript and most recently React Native. <br/><br/>
+  I am an software engineer with almost 7.5+ years experience working in mobile technology and web. I have primarily worked on native Android app development using Java, but have worked across a broad range of technologies thereon: Core Java, Gradle, Html5/CSS, Javascript and most recently React Native. <br/><br/>
   I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
